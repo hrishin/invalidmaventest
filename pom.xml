@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>io.openshift</groupId>
-    <artifactId>1234-4321</artifactId>
+    <artifactId>booster-parent</artifactId>
     <version>23</version>
   </parent>
   <groupId>io.openshift.booster</groupId>
-  <artifactId>invalidmaventest</artifactId>
+  <artifactId>1234-4321</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
